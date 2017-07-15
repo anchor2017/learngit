@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 change the readme
 BUG branch
+my bug change
